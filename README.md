@@ -1,6 +1,6 @@
 # Face-Mask-Detection
 
-  The goal is to predict whether the person is wearing Face Mask or not using Deep Learning. Here I used the concept of Transfer Learning. I used ResNet50 model to predict the images.
+  The goal is to predict whether the person is wearing Face Mask or not using Deep Learning. Here I used the concept of Transfer Learning. I used ResNet50 model to predict the images. The model is deployed using Flask App.
 
 # Data Set
 
@@ -8,9 +8,10 @@
   
  # Dependencies
  
-  * Python3
-  * Numpy
-  * Tensorflow & Keras
+  * ![python3 numpy](https://user-images.githubusercontent.com/58949821/87177225-ecdff680-c2f8-11ea-8d8e-c5cdc73402ef.png)
+  
+  * ![tensorflow_and_keras-removebg-preview](https://user-images.githubusercontent.com/58949821/87177427-3defea80-c2f9-11ea-86b2-35db33e165f8.png)
+
   
   # Sample Output
   
