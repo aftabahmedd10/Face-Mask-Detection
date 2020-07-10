@@ -55,7 +55,7 @@ def model_predict(img_path, model):
     if preds == 0:
         preds ='With Mask'
     if preds == 1:
-        preds="With Out Mask"
+        preds="Without Mask"
    
     
     
