@@ -8,9 +8,11 @@
   
  # Dependencies
  
-  Python3
-  Numpy
-  Tensorflow and Keras
+  *Python3
+  
+  *Numpy
+  
+  *Tensorflow and Keras
  
  
 
