@@ -17,13 +17,13 @@
   
   # Sample Output
   
-  * Without Mask
-  
-  ![Without Mask](https://user-images.githubusercontent.com/58949821/87183976-c4f69000-c304-11ea-8e16-d1fb4f9b14c7.png)
-  
   * With Mask
+  
+  ![With Mask](https://user-images.githubusercontent.com/58949821/87183976-c4f69000-c304-11ea-8e16-d1fb4f9b14c7.png)
+  
+  * Without Mask
     
-  ![With Mask](https://user-images.githubusercontent.com/58949821/87183982-c7f18080-c304-11ea-9f0d-312b36a4b236.png)
+  ![Without Mask](https://user-images.githubusercontent.com/58949821/87183982-c7f18080-c304-11ea-9f0d-312b36a4b236.png)
 
  
 
